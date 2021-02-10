@@ -1,10 +1,10 @@
 import React from "react";
-import Counter from "./Components/Counter";
+import Todos from './Containers/Todos';
 
 const App = () => {
   return (
     <div>
-      <Counter />
+      <Todos />
     </div>
   );
 };
