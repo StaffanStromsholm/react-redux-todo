@@ -9,6 +9,6 @@ To run the application:
 ```shell
 npm install
 npm start
-´´´
+```
 
 ![Sreenshot](./public/Screenshot.png?raw=true "screenshot")
